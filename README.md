@@ -1,6 +1,7 @@
 # Робо Хенд (RoboHand)
 
 ![Изображение руки робота](https://mega.nz/file/R7gQyAKD#HhgcsQkdUUez2zdCNZYgKHbnR9-ZCrSi6IZHCaX3HIw)
+![Image alt](https://github.com/sergtal/RoboHand/blob/main/DDN61B2cZS4.jpg)
 
 Роба Хенд - это проект механической руки с семью степенями свободы и возможностью удаленного управления. Рука снабжена электрическими приводами, обеспечивающими различные движения и функции.
 
